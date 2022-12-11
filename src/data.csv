@@ -1,0 +1,3 @@
+Open, open %p
+Copy path, %p
+Delete, rm -rf %p

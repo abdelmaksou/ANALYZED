@@ -1,0 +1,133 @@
+.start-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    background: black;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .start-container1 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    margin-top: auto;
+    align-items: flex-start;
+    margin-bottom: auto;
+    flex-direction: column;
+  }
+  .start-container2 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    align-items: flex-start;
+  }
+  .start-image {
+    width: 40%;
+    height: 100%;
+    max-width: fit-content;
+    max-height: fit-content;
+    margin: auto;
+    display: flex;
+    align-self: center;
+    object-fit: contain;
+  }
+  .start-container3 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 2vh;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .start-container4 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 6vh;
+    display: flex;
+    align-items: flex-start;
+  }
+  .start-textinput {
+    width: 60vh;
+    height: 100%;
+    font-size: 2vh;
+    align-self: center;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: 0px;
+    border-radius: var(--dl-radius-radius-radius8);
+    margin-bottom: auto;
+  }
+  .start-container5 {
+    flex: 0 0 auto;
+    width: 3vh;
+    height: auto;
+    display: flex;
+    align-items: flex-start;
+  }
+  .start-icon {
+    fill: var(--dl-color-gray-white);
+    width: 5vh;
+    cursor: pointer;
+    height: auto;
+    align-self: center;
+    transition: 0.3s;
+  }
+  .start-icon:hover {
+    fill: var(--dl-color-danger-300);
+  }
+  .start-container6 {
+    flex: 0 0 auto;
+    width: 1vh;
+    height: auto;
+    display: flex;
+    align-items: flex-start;
+  }
+  .start-icon2 {
+    fill: var(--dl-color-gray-white);
+    width: 5vh;
+    cursor: pointer;
+    height: auto;
+    align-self: center;
+    transition: 0.3s;
+    margin-right: auto;
+  }
+  .start-icon2:hover {
+    fill: var(--dl-color-danger-300);
+  }
+  .start-container7 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 4vh;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .start-container8 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 6vh;
+    display: flex;
+    align-items: flex-start;
+  }
+  .start-button {
+    color: rgb(255, 255, 255);
+    width: 30vh;
+    cursor: pointer;
+    height: 100%;
+    margin: auto;
+    font-size: 3vh;
+    align-self: center;
+    font-style: normal;
+    text-align: center;
+    transition: 0.3s;
+    font-weight: 700;
+    border-radius: 16px;
+    background-color: var(--dl-color-danger-300);
+  }
+  .start-button:hover {
+    color: var(--dl-color-gray-900);
+    background-color: var(--dl-color-danger-700);
+  }

@@ -1,0 +1,11 @@
+{
+    "no_hidden": true,
+    "no_empty_dir": false,
+    "apparent": false,
+    "depth_f": false,
+    "depth_value": 2,
+    "regex_f": true,
+    "regex_value": ".lock",
+    "aggr_f": true,
+    "aggr_value": 77232
+}
