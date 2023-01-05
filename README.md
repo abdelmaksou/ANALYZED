@@ -1,5 +1,5 @@
 # ANALYZED
-An open-source Linux disk analyzer built by RUST, and TAURI. The disk analyzer is fast and yet beautiful.
+An open-source Linux disk analyzer built by RUST, and TAURI. TAURI is used to integrate the front-end, built by HTML, css, and vanillaJS, with the RUST back-end. The disk analyzer is very fast and yet beautiful.
 ## Dependencies and required libraries
 **Make sure to install the following dependencies before running the application.**
 - TAURI
