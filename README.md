@@ -1,7 +1,7 @@
 # analyzed
 An open-source Linux disk analyzer built by RUST, and TAURI. The disk analyzer is fast and yet beautiful.
 ## Dependencies and required libraries
-** Make sure to install the following dependencies before running the application. **
+**Make sure to install the following dependencies before running the application.**
 - TAURI
 - jQuery
 - rustup
