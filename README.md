@@ -8,7 +8,7 @@ An open-source Linux disk analyzer built by RUST, and TAURI. The disk analyzer i
 - cargo
 ## How to install and run?
 ```
-git clone https :// github.com/abdelmaksou/analyzed
+git clone https://github.com/abdelmaksou/analyzed
 cd analyzed
 cargo tauri dev
 ```
