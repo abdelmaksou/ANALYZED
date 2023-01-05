@@ -1,4 +1,4 @@
-# analyzed
+# ANALYZED
 An open-source Linux disk analyzer built by RUST, and TAURI. The disk analyzer is fast and yet beautiful.
 ## Dependencies and required libraries
 **Make sure to install the following dependencies before running the application.**
@@ -15,7 +15,7 @@ cargo tauri dev
 ## How to use?
 The application starts a screen in which the user can choose to write the path, choose it, or run the program at the home directory. After that, the application displays both nested pie chart and tree view which dynamically change with each other.
 ![](assets/analyzed.gif)
-## Application Functionalities
+## Functionalities
 1. Nested Ring Chart
 2. File System Tree
 3. Analyzing Preferences
