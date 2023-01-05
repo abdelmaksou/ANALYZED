@@ -27,4 +27,4 @@ nested pie chart and tree view.
 6. Files and directory exclusion [work is in progress]
 7. Retrieve the largest N files [work is in progress]
 8. Save Charts
-#### Further information about the program and design process is found here.
+#### Further information about the program and design process is [found here](assets/report.pdf).
