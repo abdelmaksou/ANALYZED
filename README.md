@@ -13,18 +13,15 @@ cd analyzed
 cargo tauri dev
 ```
 ## How to use?
-The application starts a screen in which the user can choose to write the path, choose it, or run the
-program at the home directory. [Shown in Figures 2.1 & 2.2] After that, the application displays both
-nested pie chart and tree view.
-- figure 1
-- figure 2
+The application starts a screen in which the user can choose to write the path, choose it, or run the program at the home directory. After that, the application displays both nested pie chart and tree view which dynamically change with each other.
+![](assets/analyzed.gif)
 ## Application Functionalities
 1. Nested Ring Chart
 2. File System Tree
 3. Analyzing Preferences
 4. Grouping Files in a Pseudo-directory
-5. User-defined Controls [work is in progress]
-6. Files and directory exclusion [work is in progress]
-7. Retrieve the largest N files [work is in progress]
+5. User-defined Controls [work in progress]
+6. Files and directory exclusion [work in progress]
+7. Retrieve the largest N files [work in progress]
 8. Save Charts
 #### Further information about the implementation, and design process is [found here](assets/report.pdf).
