@@ -20,8 +20,8 @@ The application starts a screen in which the user can choose to write the path, 
 2. File System Tree
 3. Analyzing Preferences
 4. Grouping Files in a Pseudo-directory
-5. User-defined Controls [work in progress]
-6. Files and directory exclusion [work in progress]
-7. Retrieve the largest N files [work in progress]
+5. User-defined Controls **[work in progress]**
+6. Files and directory exclusion **[work in progress]**
+7. Retrieve the largest N files **[work in progress]**
 8. Save Charts
 #### Further information about the implementation, and design process is [found here](assets/report.pdf).
